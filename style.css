@@ -8,7 +8,7 @@
 
 :root {
     --RESULT-DIALOG-WIDTH: min(85vw, 500px);
-    --NAMES-DIALOG-WIDTH: min(85vw, 700px); 
+    --NAMES-DIALOG-WIDTH: min(85vw, 700px);  
     --HEADER-WIDTH: min(90vw, 550px);
     --GAMEBOARD-SIDE: min(90vw, 470px);
  
