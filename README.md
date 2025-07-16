@@ -45,13 +45,16 @@ Play the game here: 👉 [Tic-Tac-Toe Live Demo](https://marcft.github.io/tic-ta
 
 ## 📸 Screenshot
 
-![Game Preview](https://raw.githubusercontent.com/marcft/tic-tac-toe/main/screenshot.png)
+![Game Preview](https://github.com/shodhanshetty12/tic-tac-toe/blob/main/image/Screenshot%20(16).png)
 
-![Game Preview](https://raw.githubusercontent.com/marcft/tic-tac-toe/main/screenshot.png)
+![Player 1's turn](https://github.com/shodhanshetty12/tic-tac-toe/blob/main/image/Screenshot%20(17).png)
 
-![Game Preview](https://raw.githubusercontent.com/marcft/tic-tac-toe/main/screenshot.png)
+![Player 2's turn](https://github.com/shodhanshetty12/tic-tac-toe/blob/main/image/Screenshot%20(18).png)
 
-![Game Preview](https://raw.githubusercontent.com/marcft/tic-tac-toe/main/screenshot.png)
+![Game Tie](https://github.com/shodhanshetty12/tic-tac-toe/blob/main/image/Screenshot%20(19).png)
+
+![Game End](https://github.com/shodhanshetty12/tic-tac-toe/blob/main/image/Screenshot%20(20).png)
+
 
 
 ---
