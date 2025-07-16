@@ -1,23 +1,64 @@
-# Tic-Tac-Toe Game
+# 🎮 Tic-Tac-Toe Game
 
-Welcome to the Tic-Tac-Toe game! This is a simple two-player game where you can enter your names and take turns to play Tic-Tac-Toe. The game will display the winner when someone wins.
+Welcome to the **Tic-Tac-Toe** web game — a modern, interactive twist on the timeless 3x3 grid battle between two players! ✨ Challenge your friend, enter your names, and claim your victory with style!
 
-## Features
+---
 
-- Two-player game: Enjoy a classic game of Tic-Tac-Toe with a friend. Compete to see who can outmaneuver the other and claim victory.
-- Customizable player names: Make the game your own by entering custom names for Player X and Player O. Add a personal touch to your matches.
-- Interactive Gameplay: The game offers an interactive and user-friendly interface. Simply click on the cells to make your moves. The grid highlights the current player's turn, ensuring a seamless gaming experience.
-- Winning Announcements: When a player wins the game, our Tic-Tac-Toe application will proudly display the victorious player's name and a celebratory message. It's not just about winning; it's about enjoying the thrill of victory!
-- Responsive Design: Whether you're playing on a desktop computer, tablet, or mobile device, our game's responsive design ensures that you can enjoy Tic-Tac-Toe anywhere, anytime.
-- Easy Reset: Want to start a new game? No problem! A convenient reset button allows you to quickly clear the board and begin a fresh match.
+## 🚀 Features
 
-## Technologies Used
+✅ **Two-Player Mode**  
+Play with a friend and take turns marking the grid as **Player X** and **Player O**. It’s a fair and fun match — may the best strategy win!
 
-- HTML
-- CSS
-- JavaScript (Factory Functions and Module Pattern)
+✍️ **Custom Player Names**  
+Add a personal touch! Enter your name and see it displayed throughout the game as you play. Goodbye "Player 1", hello *your name*!
 
-## Demo
+🖱️ **Intuitive Gameplay**  
+Click on any empty cell to make your move. The interface highlights the current player’s turn, giving a smooth and engaging experience.
 
-You can check out a live demo of this Tic-Tac-Toe game [here](https://marcft.github.io/tic-tac-toe/).
+🏆 **Winner Detection & Celebration**  
+When a player wins, the game proudly announces the winner with a celebratory message! No need to keep score manually — we’ve got it covered.
 
+🔄 **One-Click Reset**  
+Want to play again? A single click resets the game board so you can jump into a rematch immediately.
+
+📱 **Responsive Design**  
+Play seamlessly on **mobile**, **tablet**, or **desktop**. Whether you're chilling on a couch or commuting, the game adjusts perfectly to any screen size.
+
+---
+
+## 🛠️ Technologies Used
+
+This game is built using clean, modern web development practices:
+
+- **HTML5** – Semantic layout and dialogs  
+- **CSS3** – Responsive design with custom variables and animations  
+- **JavaScript** – Built with **Factory Functions** and **Module Pattern** for organized, maintainable code
+
+---
+
+## 🔗 Live Demo
+
+Want to try it out now?  
+Play the game here: 👉 [Tic-Tac-Toe Live Demo](https://marcft.github.io/tic-tac-toe/)
+
+---
+
+## 📸 Screenshot
+
+![Game Preview](https://raw.githubusercontent.com/marcft/tic-tac-toe/main/screenshot.png)
+
+![Game Preview](https://raw.githubusercontent.com/marcft/tic-tac-toe/main/screenshot.png)
+
+![Game Preview](https://raw.githubusercontent.com/marcft/tic-tac-toe/main/screenshot.png)
+
+![Game Preview](https://raw.githubusercontent.com/marcft/tic-tac-toe/main/screenshot.png)
+
+
+---
+
+
+## 📂 How to Run Locally
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/tic-tac-toe.git
