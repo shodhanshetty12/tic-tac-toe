@@ -146,6 +146,7 @@ dialog::backdrop {
 
 /* --- NAMES DIALOG */
 
+
 .names-dialog {
     top: 200px;
     left: calc(50% - (var(--NAMES-DIALOG-WIDTH) / 2));
