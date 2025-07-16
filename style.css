@@ -11,7 +11,7 @@
     --NAMES-DIALOG-WIDTH: min(85vw, 700px); 
     --HEADER-WIDTH: min(90vw, 550px);
     --GAMEBOARD-SIDE: min(90vw, 470px);
-
+ 
     --TITLE-FS: clamp(3rem, 13vw, 4.5rem);
     --TURN-MSG-FS: clamp(1.5rem, 10vw, 2.5rem);
     --PLAYER-SYMBOL-FS: clamp(2rem, 15vw, 5rem);
